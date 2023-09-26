@@ -1,0 +1,8 @@
+DATA_SIZE:64
+EPOCHS:10
+BATCH_SIZE:1
+all_org:9400
+num:7520
+learning_org:7520
+test_org:1880
+Regularizer:None
